@@ -1,3 +1,4 @@
+# import library
 import numpy as np
 i = input("Enter elements of the list separated by space: ")  
   
